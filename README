@@ -1,0 +1,8 @@
+A small bot for monitoring channels and pushing topic updates
+to Twitter.
+
+GPLv3 licensed. Code donated to my care and i’ll maintain it if any features
+are wanted for the network that requested it - #afternet on AfterNET.org.
+
+Requires oyoyo & python-twitter, easy_install will work for python-twitter,
+oyoyo is at googlecode ( http://oyoyo.googlecode.com/files/oyoyo-0.8.tar.gz )
